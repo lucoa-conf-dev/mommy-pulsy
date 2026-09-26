@@ -6,4 +6,4 @@ There is no GUI and no microphone capture by default.
 
 ## Installation
 
-***curl -fsSL <lazy to put my repo/release-link>/bootstrap.sh | bash***
+***curl -fsSL https://github.com/lucoa-conf-dev/mommy-pulsy/releases/latest/download/bootstrap.sh | bash***
